@@ -2,7 +2,7 @@ title: wang.github.com
 description: 日月华
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
